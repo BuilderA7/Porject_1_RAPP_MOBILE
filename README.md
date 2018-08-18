@@ -6,3 +6,4 @@ AN APP DESIGNED TO DELIVER CONTENT AND MEDIA...
 
 geo checked off
 database api checked off
+user auth form check off
